@@ -1,0 +1,75 @@
+<resources>
+
+    <string name="app_name" translatable="false">Discover Mississauga</string>
+
+    <string name="image_view_cd_place">Place image</string>
+
+    <string name="topic_see_and_do">See &amp; Do</string>
+    <string name="topic_dine">Dine</string>
+    <string name="topic_shop">Shop</string>
+    <string name="topic_stay">Stay</string>
+
+    <string-array name="topics">
+        <item>@string/topic_see_and_do</item>
+        <item>@string/topic_dine</item>
+        <item>@string/topic_shop</item>
+        <item>@string/topic_stay</item>
+    </string-array>
+
+    <!-- See & Do places -->
+    <string name="place_air_combat_zone">Air Combat Zone</string>
+    <string name="place_air_combat_zone_desc">Jet Fighter Excitement!</string>
+    <string name="place_archery_district">Archery District</string>
+    <string name="place_archery_district_desc">Canada\'s original archery-tag experience!</string>
+    <string name="place_fantasy_fair">Fantasy Fair</string>
+    <string name="place_fantasy_fair_desc">Ontario\'s largest indoor amusement park</string>
+    <string name="place_the_art_gallery">The Art Gallery Of Mississauga</string>
+    <string name="place_the_art_gallery_desc">Bringing art to the community &amp; the community to art</string>
+    <string name="place_the_glenerin_inn_spa">The Spa At Glenerin Inn</string>
+    <string name="place_the_glenerin_inn_spa_desc">Located within the historical and charming Glenerin Inn</string>
+    <string name="place_salt_cave">Salt Cave</string>
+    <string name="place_salt_cave_desc">High Care Wellness Centre</string>
+
+    <!-- Dine places -->
+    <string name="place_168_sushi_buffet">168 Sushi Buffet</string>
+    <string name="place_168_sushi_buffet_desc">Over 168 japanese, chinese, korean, thai item all you can eat</string>
+    <string name="place_mandarin_restaurant">Mandarin Restaurant</string>
+    <string name="place_mandarin_restaurant_desc">All you can eat Chinese buffet</string>
+    <string name="place_bobbys_hideaway">Bobby\'s Hideaway</string>
+    <string name="place_bobbys_hideaway_desc">We\'re Always Cookin\'</string>
+    <string name="place_cock_and_pheasant">Cock &amp; Pheasant</string>
+    <string name="place_cock_and_pheasant_desc">The Neighbourhood Pub. Good Food and Friendly Service</string>
+    <string name="place_chop_steakhouse">Chop Steakhouse</string>
+    <string name="place_chop_steakhouse_desc">Toronto\'s Stylish Steak Restaurant</string>
+    <string name="place_gabriels_restaurant">Gabriel\'s Restaurant</string>
+    <string name="place_gabriels_restaurant_desc">Fine Dining Seafood Restaurant in Mississauga</string>
+
+    <!-- Shop places -->
+    <string name="place_dixie_outlet_mall">Dixie Outlet Mall</string>
+    <string name="place_dixie_outlet_mall_desc">Dixie Outlet Mall features over 135 stores, and brand-name merchandise up to 70% off.</string>
+    <string name="place_erin_mills_town_centre">Erin Mills Town Centre</string>
+    <string name="place_erin_mills_town_centre_desc">Erin Mills Town Centre is an 850,000 sq. ft., regional shopping centre managed by 20VIC Management Inc.</string>
+    <string name="place_sherway_gardens">Sherway Gardens</string>
+    <string name="place_sherway_gardens_desc">Sherway Gardens, located at Hwy. 427 and QEW, is where luxury meets style.</string>
+    <string name="place_square_one_shopping_centre">Square One Shopping Centre</string>
+    <string name="place_square_one_shopping_centre_desc">With 360 stores, Square One is one of the top retail destinations in the Greater Toronto Area.</string>
+    <string name="place_cabin_goods_and_grooming">Cabin Goods &amp; Grooming</string>
+    <string name="place_cabin_goods_and_grooming_desc">A rustic shoppe for gentlemen, tastemakers and those who love them.</string>
+    <string name="place_threshold_aviation">Threshold Aviation</string>
+    <string name="place_threshold_aviation_desc">Pilot Supplies &amp; Aviation Hobby Merchandise, Flight Simulator Adventures</string>
+    
+    <!-- Stay places -->
+    <string name="place_park_place_bed_and_breakfast">Park Place Bed &amp; Breakfast</string>
+    <string name="place_park_place_bed_and_breakfast_desc">Not just a bed and breakfas … but your own private suite. Why would you want to stay anywhere else?</string>
+    <string name="place_alt_hotel_toronto_airport">ALT Hotel Toronto Airport</string>
+    <string name="place_alt_hotel_toronto_airport_desc">At Alt Hotels, we make sure you get the best value for your money: ultra-comfortable rooms, super-fast Wi-Fi, inspiring design and an eco-friendly environment.</string>
+    <string name="place_comfort_inn">Comfort Inn</string>
+    <string name="place_comfort_inn_desc">Welcome to the Comfort Inn, a Mississauga hotel on Highway 407 near downtown Mississauga and borders the City of Brampton.</string>
+    <string name="place_four_points">Four Points By Sheraton Mississauga</string>
+    <string name="place_four_points_desc">Four Points Mississauga Meadowvale is located in the Meadowvale Business Park, only minutes from numerous corporate headquarters and the Mississauga Convention Centre.</string>
+    <string name="place_hilton_garden_inn">Hilton Garden Inn Toronto Airport</string>
+    <string name="place_hilton_garden_inn_desc">Unwind at the environmentally friendly Hilton Garden Inn Toronto Airport hotel, awarded 4 Green Keys by the Hotel Association of Canada.</string>
+    <string name="place_holiday_inn_express">Holiday Inn Express &amp; Suites</string>
+    <string name="place_holiday_inn_express_desc">The Holiday Inn Express Hotel and Suites Toronto Mississauga is conveniently located on Hurontario, south of Derry Road, with close proximity to major highways including 401, 407, 410 and just 15 km from Toronto Pearson International Airport.</string>
+
+</resources>
