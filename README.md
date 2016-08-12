@@ -4,13 +4,13 @@
 
 **Author: [Timotius Oktorio](https://ca.linkedin.com/in/timotiusoktorio "LinkedIn Profile") (timotiusoktorio@gmail.com)**
 
-Android travel app that provides a list of top attractions, dining, shopping, and hotels for the city of Mississauga visitors. 
+Android travel app that provides a list of top attractions, dining, shopping, and hotels for visitors in the city of Mississauga. 
 
 _This app is created as the sixth project of Android Basics Nanodegree program at Udacity._
 
 **Features:**
 - Find the top attractions and places to visit in Mississauga.
-- Tabbed navigation pattern for quick and easy navigation in the app.
+- Tabbed navigation pattern for quick and easy navigation.
 - Design support for both portrait and landscape orientation.
 
 **What I have learned from this project:**
