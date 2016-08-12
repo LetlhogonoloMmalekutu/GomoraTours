@@ -22,6 +22,4 @@ _This app is created as the sixth project of Android Basics Nanodegree program a
 
 ![Screenshot](https://c7.staticflickr.com/9/8856/28648236870_4f01553d3e_z.jpg)
 
-Download the apk file [here](http://timotiusoktorio.co.nf/apk/tour-guide.apk) to try the app on your device. Note that depending on your device, you might need to check the "Unknown sources" checkbox under Settings --> Security in order to install the app using the apk.
-
-Follow this [link](http://www.cnet.com/how-to/how-to-install-apps-outside-of-google-play/) for more detailed information.
+If you are interested to try the app on your device, send me an [email](mailto:timotiusoktorio@gmail.com) to request for the apk file.
